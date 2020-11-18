@@ -1,5 +1,7 @@
 package com.javalectures.lecture06;
 
+import com.javalectures.lecture07.LoopExamples;
+
 public class Main {
 
 
@@ -33,5 +35,9 @@ public class Main {
 
         int biggestNumber = homeWork.findBiggestNumber(9,9,5);
         System.out.println("The biggest number is : " + biggestNumber);
+
+        LoopExamples loopExamples = new LoopExamples();
+//        loopExamples.checkOperators();
+        loopExamples.printAllArrayElements();
     }
 }
