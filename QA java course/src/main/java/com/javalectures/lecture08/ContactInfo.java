@@ -49,4 +49,5 @@ public class ContactInfo {
                 "   emailAddress= " + emailAddress + '\n' +
                 "   phoneNumber= " + phoneNumber ;
     }
+
 }
