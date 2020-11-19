@@ -10,7 +10,7 @@ public class Main {
 
 
         ArrayList speciality = new ArrayList<>();
-        speciality.add("Mathematics");
+        speciality.add("Mathematics++");
         speciality.add("Physics");
         teacher.setSpeciality(speciality);
 
