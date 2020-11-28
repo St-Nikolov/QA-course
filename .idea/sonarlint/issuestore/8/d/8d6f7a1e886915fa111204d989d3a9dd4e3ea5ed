@@ -1,5 +1,5 @@
 
-M
-java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ŽÃ®¯ß.
 {
 java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ó€öƒøÿÿÿÿ8ûê¬¯ß.
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ŽÃ®¯ß.

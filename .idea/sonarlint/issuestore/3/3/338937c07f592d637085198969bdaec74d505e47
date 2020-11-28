@@ -1,17 +1,21 @@
 
-I
-java:S1199"-Extract this nested code block into a method.(éı"8ŒÔß±ß.
-O
-java:S11994"-Extract this nested code block into a method.(¡·ñåûÿÿÿÿ8ÇÖµ³ß.
 J
-java:S1199."-Extract this nested code block into a method.(×¹Ó8˜€³ß.
-t
-java:S1192$"XDefine a constant instead of duplicating this literal "Team {} does not exist." 3 times.(¥óçI8˜€³ß.
+java:S1199@"-Extract this nested code block into a method.(×¹Ó8˜€³ß.
+O
+java:S1199K"-Extract this nested code block into a method.(£Û·äúÿÿÿÿ8º¼»´ß.
 I
 java:S1199"-Extract this nested code block into a method.(—˜;8‘ŞÔ±ß.
+†
+java:S1192"dDefine a constant instead of duplicating this literal "Command {} should have 1 parameter!" 3 times.(…—Õíøÿÿÿÿ8şÇÇß.
+O
+java:S1199X"-Extract this nested code block into a method.(¡·ñåûÿÿÿÿ8ÇÖµ³ß.
+O
+java:S1199\"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ8¦’¸Åß.
 v
 java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ğ¹¿ª8ÉÚ±ß.
 o
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(œû¿Ø8˜€³ß.
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 49 to the 15 allowed.(œû¿Ø8˜€³ß.
 O
-java:S1199'"-Extract this nested code block into a method.(’éÕàşÿÿÿÿ8˜€³ß.
+java:S11992"-Extract this nested code block into a method.(’éÕàşÿÿÿÿ8˜€³ß.
+I
+java:S1199!"-Extract this nested code block into a method.(éı"8ŒÔß±ß.

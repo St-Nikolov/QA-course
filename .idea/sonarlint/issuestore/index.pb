@@ -103,3 +103,7 @@ CQA java course/src/main/java/com/javalectures/lecture10/Player.java,2\d\2d24b7
 KQA java course/src/main/java/com/javalectures/lecture10/TeamManagement.java,3\3\338937c07f592d637085198969bdaec74d505e47
 q
 AQA java course/src/main/java/com/javalectures/lecture10/Team.java,8\d\8d6f7a1e886915fa111204d989d3a9dd4e3ea5ed
+j
+:.idea/libraries/Maven__org_slf4j_slf4j_api_1_8_0_beta4.xml,4\8\48d725e04a8bfa7cdf7cdcd18f94d1a78516b113
+m
+=.idea/libraries/Maven__org_slf4j_slf4j_simple_1_8_0_beta4.xml,b\c\bc79d17161381b96a38cf29920a03903aab2f0f6
