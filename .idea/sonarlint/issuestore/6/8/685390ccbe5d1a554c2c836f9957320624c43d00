@@ -1,6 +1,21 @@
 
-S	java:S106"9Replace this use of System.out or System.err by a logger.(‰·áü8½˜ã›Û.
-X	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öþÿÿÿÿ8„°ôœÛ.
-X	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öþÿÿÿÿ8ñØ¾›Û.
-S	java:S106"9Replace this use of System.out or System.err by a logger.(†»ºµ8Ñµâ›Û.
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Ï³Îß8™¿›Û.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(—ÓÜêøÿÿÿÿ8¦ƒÇÙÝ.
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(ƒýµ„8ý–¦ÙÝ.
+U	java:S106>"9Replace this use of System.out or System.err by a logger.(ó„üô8Ðß›ÙÝ.
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(¼Ï‰û8ÔÞµÙÝ.
+]	java:S125"<This block of commented-out lines of code should be removed.(ÊŸ€þÿÿÿÿ8¯×ÄÙÝ.
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(ñÃê§üÿÿÿÿ8›•ÙÙÝ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¯«Í¥ýÿÿÿÿ8º£ØÝ.
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(¯«Í¥ýÿÿÿÿ8šßŸØÝ.
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(‘ý‚Èýÿÿÿÿ8©±ªÙÝ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(®Ëºúÿÿÿÿ8ÂœØÝ.
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(—ÓÜêøÿÿÿÿ8³àÙÝ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¬ª‚Àúÿÿÿÿ8šßŸØÝ.
+n
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ë«ìÐ8é”âÙÝ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öþÿÿÿÿ8ˆ¸ËÙÝ.
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(°À®ýÿÿÿÿ8õ²ÙÝ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ë«ìÐ8öîÇÙÝ.
+n
+java:S3457>"Q%n should be used in place of \n to produce the platform-specific line separator.(ó„üô8ËÂ¶ÙÝ.
