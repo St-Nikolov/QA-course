@@ -57,7 +57,7 @@ public class Player {
     }
 
     public float getOverallSkill(){
-        return (endurance + sprint + dribble + passing + shooting)/5;
+        return (float) (endurance + sprint + dribble + passing + shooting)/5;
     }
 
 
