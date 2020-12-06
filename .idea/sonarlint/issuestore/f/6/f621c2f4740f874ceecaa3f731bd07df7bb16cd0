@@ -1,9 +1,7 @@
 
-M
-java:S1068"+Remove this unused "faculty" private field.(ï•¤ùÿÿÿÿ8 ‹úŒŞ.
-M
-java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ğÅ±«İ.
 ~
 java:S1488""\Immediately return this expression instead of assigning it to the temporary variable "info".(ßƒ¼İûÿÿÿÿ8Ï¥¤¦İ.
 L
 java:S3740"/Provide the parametrized type for this generic.(û§…ê8ŸöÉ—Ü.
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ğÅ±«İ.
